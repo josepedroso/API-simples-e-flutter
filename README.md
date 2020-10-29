@@ -6,11 +6,9 @@ Deve ser executado algumas configurações para a utilização do App. Para come
 Abra um terminal na pasta backend
 
 Execute este comando para inicializar: 
-
 npm init -y
 
 Agora vamos instalar alguns pacotes necessarios: 
-
 npm install express mongoose morgan cors faker 
 
 Vamos inicializar agora:
