@@ -4,15 +4,15 @@ Implementação de API simples feita com Node.js e usada em um aplicativo Flutte
 ## API
 Deve ser executado algumas configurações para a utilização do App. Para começar instale o Node.js, ao terminar siga os seguintes passos(Obs: comandos válidos para linux).
 
-Abra um terminal na pasta backend
+- Abra um terminal na pasta backend
 
-Execute este comando para inicializar:
+- Execute este comando para inicializar:
 npm init -y
 
-Agora vamos instalar alguns pacotes necessários:
+- Agora vamos instalar alguns pacotes necessários:
 npm install express mongoose morgan cors faker
 
-Vamos inicializar agora:
+- Vamos inicializar agora:
 
 ![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-10-17%2020-27-00.png)
 
