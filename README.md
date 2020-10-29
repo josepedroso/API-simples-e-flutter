@@ -12,7 +12,8 @@ Agora vamos instalar alguns pacotes necessarios:
 npm install express mongoose morgan cors faker 
 
 Vamos inicializar agora:
-![Screenshot](screens/Captura de tela de 2020-10-17 20-27-00.png)
+
+![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-10-17%2020-27-00.png)
 
 O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
 
