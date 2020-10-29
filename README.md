@@ -1,6 +1,7 @@
 # API-simples-e-flutter
 Implementação de API simples feita com Node.js e usada em um aplicativo Flutter.  
 
+## API
 Deve ser executado algumas configurações para a utilização do App. Para começar instale o Node.js, ao terminar siga os seguintes passos(Obs: comandos válidos para linux).
 
 Abra um terminal na pasta backend
