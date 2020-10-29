@@ -14,7 +14,9 @@ npm install express mongoose morgan cors faker
 Vamos inicializar agora:
 node src/index.js
 
-O backend está funcionando então bora para o App
+O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
+
+vamos 
 
 O codigo foi escrito conforme o tutorial do youtuber FaztCode.
 
