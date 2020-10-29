@@ -12,7 +12,7 @@ Agora vamos instalar alguns pacotes necessarios:
 npm install express mongoose morgan cors faker 
 
 Vamos inicializar agora:
-node src/index.js
+![Screenshot](screens/Captura de tela de 2020-10-17 20-27-00.png)
 
 O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
 
