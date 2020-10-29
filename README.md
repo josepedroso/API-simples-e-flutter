@@ -7,10 +7,10 @@ Deve ser executado algumas configurações para a utilização do App. Para come
 - Abra um terminal na pasta backend
 
 - Execute este comando para inicializar:
-npm init -y
+***npm init -y***
 
 - Agora vamos instalar alguns pacotes necessários:
-npm install express mongoose morgan cors faker
+***npm install express mongoose morgan cors faker***
 
 - Vamos inicializar agora:
 
@@ -20,7 +20,7 @@ Você pode começar a brincar com a API agora
 
 Usando no navegador http://localhost:4000/api/users/create , sera criado 5 usuários e com http://localhost:4000/api/users poderá ver os usuários criados. Ao olhar no terminal verá as requisições.  
 
-
+## Flutter App
 O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
 
 vamos
