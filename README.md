@@ -25,7 +25,9 @@ O backend está funcionando então bora para o App, instale o flutter e crie um 
 
 vamos
 
-O código foi escrito conforme o tutorial do youtuber FaztCode.
+
+## Créditos
+O código foi escrito graças o tutorial do youtuber FaztCode.
 
 Link do video que explica de maneira mais detalhada o codigo https://www.youtube.com/watch?v=SBDI53ECgVk&list=WL&index=10&ab_channel=FaztCode
 
