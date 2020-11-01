@@ -20,6 +20,9 @@ Você pode começar a brincar com a API agora
 
 Usando no navegador http://localhost:4000/api/users/create , sera criado 5 usuários e com http://localhost:4000/api/users poderá ver os usuários criados. Ao olhar no terminal verá as requisições.  
 
+![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-10-29%2016-55-52.png)
+
+
 ## Flutter App
 O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
 
