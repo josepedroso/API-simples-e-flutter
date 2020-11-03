@@ -8,6 +8,9 @@ Deve ser executado algumas configurações para a utilização do App. Para come
 
 - Execute este comando para inicializar:
 ***npm init -y***
+```Shell
+ npm init -y
+```
 
 - Agora vamos instalar alguns pacotes necessários:
 ***npm install express mongoose morgan cors faker***
