@@ -26,11 +26,9 @@ Usando no navegador http://localhost:4000/api/users/create , sera criado 5 usuá
 ## Flutter App(em construção) 
 O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
 
-Agora apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib
+Agora apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib e coloque o main.dart do repositório no lugar
 
-Coloque o main.dart do repositório no lugar
-
-Isso vai dar alguns erros e vamos corrigir eles
+###### Isso vai dar alguns erros e vamos corrigir eles
 
 Vá até pubspec.yaml e insira ***http: any*** no mesmo local da imagem 
 
