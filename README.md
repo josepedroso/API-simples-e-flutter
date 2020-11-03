@@ -26,7 +26,16 @@ Usando no navegador http://localhost:4000/api/users/create , sera criado 5 usuá
 ## Flutter App(em construção) 
 O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
 
-vamos
+Agora apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib
+
+Coloque o main.dart do repositório no lugar
+
+Isso vai dar alguns erros e vamos corrigir eles
+
+Vá até pubspec.yaml e insira ***http: any*** no mesmo local da imagem 
+
+![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-11-03%2016-32-56.png)
+
 
 
 ## Créditos
