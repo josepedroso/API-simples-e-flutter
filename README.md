@@ -37,9 +37,9 @@ Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuário
 
 
 ## Flutter App(em construção) 
-O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
+O backend está funcionando então bora para o App, instale o flutter e crie um projeto dentro da pasta do repositório.
 
-Agora apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib e coloque o main.dart do repositório no lugar.
+Agora abra o projeto no VSCode e apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib e coloque o main.dart do repositório no lugar.
 
 ###### Isso vai dar alguns erros e vamos corrigir eles
 
@@ -62,8 +62,11 @@ Agora em main.dart
 
 Podemos usar o identificador do emulador ou o ip da rede(no caso de um device físico) no acesso ao servidor local, devendo mudar no código dependendo do caso.
 
-###### Após isso eh apenas aplicar o comando Flutter run -d (nome do device)
+Após isso eh apenas aplicar o comando Flutter run -d (nome do device)
 
+```Shell
+ Flutter run -d (nome do device)
+```
 
 ## Créditos
 O código foi escrito graças o tutorial do youtuber FaztCode.
