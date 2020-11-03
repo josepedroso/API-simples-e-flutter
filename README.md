@@ -22,6 +22,21 @@ Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuário
 
 ![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-10-29%2016-55-52.png)
 
+Agora em main.dart
+
+```Dart
+ getUsers() async {
+    http.Response response = await http.get(
+        'http://192.168.15.12:4000/api/users'); //acesso servidor local
+    data = json.decode(response.body);
+    setState(() {
+      usersData = data['users'];
+    });
+  }
+```
+
+Podemos usar o identificador do emulador ou o ip da rede(no caso de um device físico)
+
 
 ## Flutter App(em construção) 
 O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
