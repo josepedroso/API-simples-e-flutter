@@ -22,6 +22,19 @@ Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuário
 
 ![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-10-29%2016-55-52.png)
 
+
+
+## Flutter App(em construção) 
+O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
+
+Agora apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib e coloque o main.dart do repositório no lugar
+
+###### Isso vai dar alguns erros e vamos corrigir eles
+
+Vá até pubspec.yaml e insira ***http: any*** no mesmo local da imagem 
+
+![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-11-03%2016-32-56.png)
+
 Agora em main.dart
 
 ```Dart
@@ -35,19 +48,7 @@ Agora em main.dart
   }
 ```
 
-Podemos usar o identificador do emulador ou o ip da rede(no caso de um device físico)
-
-
-## Flutter App(em construção) 
-O backend está funcionando então bora para o App, instale o flutter e crie um projeto.
-
-Agora apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib e coloque o main.dart do repositório no lugar
-
-###### Isso vai dar alguns erros e vamos corrigir eles
-
-Vá até pubspec.yaml e insira ***http: any*** no mesmo local da imagem 
-
-![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-11-03%2016-32-56.png)
+Podemos usar o identificador do emulador ou o ip da rede(no caso de um device físico) no acesso ao servidor local
 
 
 
