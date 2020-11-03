@@ -68,7 +68,7 @@ Após isso eh apenas aplicar o comando no terminal(pode demorar um tempo)
  Flutter run -d (nomedodevice)
 ```
 
-Prontinho!!
+**Prontinho!!**
 
 ![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Screenshot_20201029-164146.png)
 
