@@ -62,11 +62,16 @@ Agora em main.dart
 
 Podemos usar o identificador do emulador ou o ip da rede(no caso de um device físico) no acesso ao servidor local, devendo mudar no código dependendo do caso.
 
-Após isso eh apenas aplicar o comando Flutter run -d (nome do device)
-
+Após isso eh apenas aplicar o comando no terminal(pode demorar um tempo)
+ 
 ```Shell
- Flutter run -d (nome do device)
+ Flutter run -d (nomedodevice)
 ```
+
+Prontinho!!
+
+![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Screenshot_20201029-164146.png)
+
 
 ## Créditos
 O código foi escrito graças o tutorial do youtuber FaztCode.
