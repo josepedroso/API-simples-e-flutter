@@ -7,15 +7,24 @@ Deve ser executado algumas configurações para a utilização do App. Para come
 - Abra um terminal na pasta backend
 
 - Execute este comando para inicializar:
-***npm init -y***
+
 ```Shell
  npm init -y
 ```
 
 - Agora vamos instalar alguns pacotes necessários:
-***npm install express mongoose morgan cors faker***
+
+```Shell
+ npm install express mongoose morgan cors faker
+```
+
 
 - Vamos inicializar agora:
+
+```Shell
+ node src/index.js
+```
+
 
 ![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-10-17%2020-27-00.png)
 
