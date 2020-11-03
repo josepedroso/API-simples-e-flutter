@@ -36,7 +36,7 @@ Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuário
 
 
 
-## Flutter App(em construção) 
+## Flutter App
 O backend está funcionando então bora para o App, instale o flutter e crie um projeto dentro da pasta do repositório.
 
 Agora abra o projeto no VSCode e apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib e coloque o main.dart do repositório no lugar.
