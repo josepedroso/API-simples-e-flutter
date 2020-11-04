@@ -1,8 +1,12 @@
 # API-simples-e-flutter
 Implementação de API simples feita com Node.js e usada em um aplicativo Flutter.  
+## Requisitos
+
+Neste arquivo está como instalar e configurar os requisitos, assim como quais são. 
+
+https://github.com/josepedroso/API-simples-e-flutter/blob/main/requisitos.md
 
 ## API
-Deve ser executado algumas configurações para a utilização do App. Para começar instale o Node.js, ao terminar siga os seguintes passos(Obs: comandos válidos para linux).
 
 - Abra um terminal na pasta backend
 
@@ -37,11 +41,13 @@ Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuário
 
 
 ## Flutter App
-O backend está funcionando então bora para o App, instale o flutter e crie um projeto dentro da pasta do repositório.
+O backend está funcionando então bora para o App, crie um projeto Flutter dentro da pasta do repositório.
 
-Agora abra o projeto no VSCode e apague o arquivo na pasta test e limpe o arquivo main.dart na pasta lib e coloque o main.dart do repositório no lugar.
+- Abra o projeto no VSCode
 
-###### Isso vai dar alguns erros e vamos corrigir eles
+- Apague o arquivo da pasta test
+
+- Limpe o arquivo main.dart na pasta lib e coloque o main.dart do repositório no lugar.
 
 Vá até pubspec.yaml e insira ***http: any*** no mesmo local da imagem 
 
