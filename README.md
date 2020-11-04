@@ -66,7 +66,13 @@ Agora em main.dart
   }
 ```
 
-Podemos usar o identificador do emulador ou o ip da rede(no caso de um device físico) no acesso ao servidor local, devendo mudar no código dependendo do caso.
+No lugar do IP podemos usar o identificador do emulador ou o IP da rede(no caso de um device físico ou Flutter Web), devendo mudar no código dependendo do caso.
+
+O IP da rede pode ser obtido com
+
+```Shell
+ ifconfig
+```
 
 Após isso eh apenas aplicar o comando no terminal(pode demorar um tempo)
  
