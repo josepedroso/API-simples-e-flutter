@@ -22,6 +22,11 @@ https://github.com/josepedroso/API-simples-e-flutter/blob/main/requisitos.md
  npm install express mongoose morgan cors faker
 ```
 
+- O Mongodb:
+
+```Shell
+ sudo service mongodb start
+```
 
 - Vamos inicializar agora:
 
