@@ -7,6 +7,7 @@
 - Mongodb
 - Extensões no VSCode( Dart e Flutter)
 - Device(Emulador, Físico ou Web) 
+- Chrome(opcional)
 ## Node.js
 
 ### Instalação do Node.js
@@ -30,6 +31,9 @@ sudo apt install mongodb --fix-missing
 sudo apt install mongodb-clients --fix-missing
 ```
 ## Flutter
+
+### Instalação do Flutter
+
 ```Shell
 sudo apt install snapd
 ```
@@ -39,11 +43,13 @@ sudo snap install flutter --classic
 ```Shell
 sudo apt install android-sdk
 ```
+
+Ao executar o comando abaixo ainda terá alguns problemas mas na atual situação já suficiente para rodar o app
 ```Shell
 flutter doctor
 ```
 
-### PARA EXECUTAR NA WEB:
+### Para executar na web
 ```Shell
 flutter channel beta
 ```
@@ -53,18 +59,16 @@ flutter upgrade
 ```Shell
 flutter config --enable-web
 ```
+
+Se tudo deu certo mostrará chrome e um service como device 
 ```Shell
 flutter doctor -v
 ```
 
-#criação do projeto
-#flutter create web
-
-
-#execução, já na pasta do projeto criado anteriormente
-#flutter run -d Chrome
-
-
 
 ## VSCode
+Basta pesquisar flutter e instalar a extensão 
+
+![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/flutter-VSCode.png)
+
 
