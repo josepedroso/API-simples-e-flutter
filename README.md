@@ -46,7 +46,14 @@ Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuário
 
 
 ## Flutter App
-O backend está funcionando então bora para o App, crie um projeto Flutter dentro da pasta do repositório.
+
+O backend está funcionando então bora para o App.
+
+Crie um projeto Flutter dentro da pasta do repositório.
+```Shell
+ flutter create (nome)
+```
+
 
 - Abra o projeto no VSCode
 
