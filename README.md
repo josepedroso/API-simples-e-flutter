@@ -40,8 +40,8 @@ https://github.com/josepedroso/API-simples-e-flutter/blob/main/requisitos.md
 
 Você pode começar a brincar com a API agora
 
-- Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuários cada vez que acessar o link 
-- http://localhost:4000/api/users poderá ver os usuários que foram criados. 
+- Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuários.
+- Ao usar http://localhost:4000/api/users poderá ver os usuários que foram criados. 
 
 - Ao olhar no terminal verá as requisições.  
 
@@ -82,7 +82,7 @@ Agora em main.dart
   }
 ```
 
-No lugar do IP podemos usar o identificador do emulador ou o IP da rede(no caso de um device físico ou Flutter Web), devendo mudar no código dependendo do caso.
+No lugar do IP devemos trocar conforme a disponibilidade de device, assim usando o identificador do emulador ou o IP da rede(no caso de um device físico ou Flutter Web).
 
 O IP da rede pode ser obtido com
 
