@@ -29,7 +29,7 @@ https://github.com/josepedroso/API-simples-e-flutter/blob/main/requisitos.md
  sudo service mongodb start
 ```
 
-- Vamos inicializar agora:
+- Vamos inicializar agora(manter rodando no terminal):
 
 ```Shell
  node src/index.js
@@ -40,7 +40,10 @@ https://github.com/josepedroso/API-simples-e-flutter/blob/main/requisitos.md
 
 Você pode começar a brincar com a API agora
 
-Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuários e com http://localhost:4000/api/users poderá ver os usuários criados. Ao olhar no terminal verá as requisições.  
+- Use no navegador http://localhost:4000/api/users/create , sera criado 5 usuários cada vez que acessar o link 
+- http://localhost:4000/api/users poderá ver os usuários que foram criados. 
+
+- Ao olhar no terminal verá as requisições.  
 
 ![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Captura%20de%20tela%20de%202020-10-29%2016-55-52.png)
 
