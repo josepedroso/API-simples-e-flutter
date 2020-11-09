@@ -1,4 +1,4 @@
-# Instalação e configuração dos requisitos(Em construção)
+# Instalação e configuração dos requisitos
 
 ## Requisitos
 
