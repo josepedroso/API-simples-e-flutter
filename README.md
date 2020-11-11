@@ -1,5 +1,10 @@
 # API-simples-e-flutter
-Implementação de API simples feita com Node.js e usada em um aplicativo Flutter.  
+Implementação de API simples feita com Node.js e usada em um aplicativo Flutter.
+
+## Versão em inglês
+
+https://github.com/josepedroso/API-simples-e-flutter/blob/main/README_EN.md
+
 ## Requisitos
 (Os comandos são válidos para linux)
 
