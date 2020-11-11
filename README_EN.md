@@ -1,7 +1,7 @@
 # API-simples-e-flutter
 Simple API implementation made with Node.js and used in a Flutter application
   
-## Requisitos
+## Requirements
 (The commands are valid for linux)
 
 This file shows how to install and configure the requirements, as well as what they are.
@@ -56,7 +56,7 @@ The backend is working, so let’s go to the App.
 
 Create a Flutter project inside the repository folder.
 ```Shell
- flutter create (nome)
+ flutter create (name)
 ```
 
 
@@ -93,7 +93,7 @@ You can find your IP using the command below in the terminal.
 After that, just apply the command to the terminal (it may take a while).
  
 ```Shell
- Flutter run -d (nomedodevice)
+ Flutter run -d (devicename)
 ```
 
 **Done!!**
@@ -101,7 +101,7 @@ After that, just apply the command to the terminal (it may take a while).
 ![alt text](https://github.com/josepedroso/API-simples-e-flutter/blob/main/screens/Screenshot_20201029-164146.png)
 
 
-## Créditos
+## Credits
 The code was written thanks to the tutorial by FaztCode.
  
 Video that explains the code in more detail 
